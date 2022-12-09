@@ -3,7 +3,6 @@
 target
 .settings
 out
-.vscode
 
 # File
 sh.exe.stackdump
